@@ -1,0 +1,7 @@
+site_name: Módulo 1 
+theme: 
+  name: material 
+  
+nav: 
+  - Inicio: index.md 
+  - Tema 1: tema1.md 
